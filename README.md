@@ -44,7 +44,7 @@
 ### 6. [Maestro-de-la-Autenticacion-Segura](https://github.com/Kameljesus/Maestro-de-la-Autenticacion-Segura.git)  
 🎯 Seguridad y autenticación en aplicaciones web  
 **Tecnologías:** Node.js, Express, SQLite, EJS, Bcrypt, Express Rate Limit, Middlewares personalizados, JavaScript, HTML  
-**Descripción:** Proyecto avanzado de autenticación segura, prevención de ataques de fuerza bruta y persistencia de roles y usuarios.
+**Descripción:** Proyecto avanzado de autenticación segura, prevención de ataques de fuerza bruta, XSS, CSRF y persistencia de roles y usuarios.
 
 ---
 

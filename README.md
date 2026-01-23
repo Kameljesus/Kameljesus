@@ -50,6 +50,23 @@ Programador con conocimientos en tecnologías Back-end, Data Science y Business 
 
 ---
 
+## 📊 Proyectos de Business Intelligence destacados:
+
+### 1. [Ventas-de-Videojuegos-BI](https://github.com/Kameljesus/Ventas-de-Videojuegos-BI.git)
+🎯 Análisis de ventas globales de videojuegos mediante dashboards interactivos
+**Tecnologías:** Power BI, Data Modeling, Interactive Dashboards, EDA
+**Descripción:** Desarrollo de un reporte interactivo para explorar las ventas de millones de copias de videojuegos a nivel mundial, permitiendo análisis por año, región, plataforma, género y editorial. Los dashboards facilitan la identificación de tendencias de mercado y la comparación entre categorías.
+
+---
+
+### 2. [Indicadores-Mundiales-BI](https://github.com/Kameljesus/Indicadores-Mundiales-BI.git)
+
+🎯 Business Intelligence y análisis comparativo a escala global
+**Tecnologías:** Power BI, Data Modeling, Interactive Dashboards, EDA
+**Descripción:** Implementación de dashboards interactivos que integran datos demográficos y de salud para analizar población, esperanza de vida y mortalidad infantil por país y continente.
+
+---
+
 ## 🛠 Tecnologías y herramientas generales
 ### Python & Data
 - Python 3 🐍

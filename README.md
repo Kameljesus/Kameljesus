@@ -6,7 +6,7 @@ Programador con conocimientos en tecnologías Back-end, Data Science y Business 
 
 ---
 
-## 🔭 Proyectos destacados
+## 🔭 Proyectos de Desarrollo de Software destacados:
 
 ### 1. [Testing-Fest](https://github.com/Kameljesus/Testing-Fest.git)  
 🎯 Proyecto de pruebas de cliente-servidor con Python  

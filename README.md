@@ -2,7 +2,7 @@
 💻 Junior Developer | Backend & Data Science  
 📍 Paraguay | Open to opportunities
 
-Programador con conocimientos en tecnologías Back-end, Data Science y Business Intelligence (BI). Buscoaportar soluciones a empresas mediante la tecnología y la ingeniería, brindando asesorías y serviciosorientados a optimizar procesos, mejorar la salud financiera, ordenar datos y asegurar la estabilidadoperativa.
+Programador con conocimientos en tecnologías Back-end, Data Science y Business Intelligence (BI). Busco aportar soluciones a empresas mediante la tecnología y la ingeniería, brindando asesorías y serviciosvorientados a optimizar procesos, mejorar la salud financiera, ordenar datos y asegurar la estabilidad operativa.
 
 ---
 

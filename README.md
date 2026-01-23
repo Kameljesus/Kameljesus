@@ -61,8 +61,8 @@ Programador con conocimientos en tecnologías Back-end, Data Science y Business 
 
 ### 2. [Indicadores-Mundiales-BI](https://github.com/Kameljesus/Indicadores-Mundiales-BI.git)
 
-🎯 Business Intelligence y análisis comparativo a escala global
-**Tecnologías:** Power BI, Data Modeling, Interactive Dashboards, EDA
+🎯 Business Intelligence y análisis comparativo a escala global<br>
+**Tecnologías:** Power BI, Data Modeling, Interactive Dashboards, EDA<br>
 **Descripción:** Implementación de dashboards interactivos que integran datos demográficos y de salud para analizar población, esperanza de vida y mortalidad infantil por país y continente.
 
 ---

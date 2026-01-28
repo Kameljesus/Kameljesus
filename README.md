@@ -67,6 +67,14 @@ Programador con conocimientos en tecnologías Back-end, Data Science y Business 
 
 ---
 
+### 3. [Reporte-de-Recursos-Humanos](https://github.com/Kameljesus/Reporte-de-Recursos-Humanos.git)
+
+🎯 Business Intelligence aplicado a análisis de Recursos Humanos<br>
+**Tecnologías:** Power BI, Data Modeling, Interactive Dashboards, EDA<br>
+**Descripción:** Desarrollo de un reporte interactivo de Recursos Humanos para la compañía SKU-DON, enfocado en el análisis de colaboradores, sueldos y desempeño. El dashboard permite evaluar costos salariales, desempeño individual y métricas clave del capital humano.
+
+---
+
 ## 🛠 Tecnologías y herramientas generales
 ### Python & Data
 - Python 3 🐍

@@ -67,11 +67,19 @@ Programador con conocimientos en tecnologías Back-end, Data Science y Business 
 
 ---
 
-### 3. [Reporte-de-Recursos-Humanos](https://github.com/Kameljesus/Reporte-de-Recursos-Humanos.git)
+### 3. [Reporte-de-Recursos-Humanos-BI](https://github.com/Kameljesus/Reporte-de-Recursos-Humanos.git)
 
 🎯 Business Intelligence aplicado a análisis de Recursos Humanos<br>
 **Tecnologías:** Power BI, Data Modeling, Interactive Dashboards, EDA<br>
 **Descripción:** Desarrollo de un reporte interactivo de Recursos Humanos para la compañía SKU-DON, enfocado en el análisis de colaboradores, sueldos y desempeño. El dashboard permite evaluar costos salariales, desempeño individual y métricas clave del capital humano.
+
+---
+
+### 4. [Reporte-de-Finanzas-Personales-BI](https://github.com/Kameljesus/Reporte-de-Finanzas-Personales-BI.git)
+
+🎯 Dashboard interactivo de finanzas personales con cálculos avanzados en DAX y modelado relacional optimizado<br>
+**Tecnologías:** Power BI, DAX, Power Query (ETL), Modelado de Datos, Análisis Financiero<br>
+**Descripción:** Desarrollo de un reporte interactivo para el análisis y control de ingresos, gastos, utilidad y saldo acumulado. El proyecto implementa manipulación avanzada del contexto de filtro en DAX (CALCULATE, FILTER, ALL), medidas acumulativas dinámicas (running totals), modelado relacional estructurado y transformación de datos optimizada para garantizar rendimiento y claridad analítica.
 
 ---
 
